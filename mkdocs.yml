@@ -1,12 +1,12 @@
-site_name: Site Name
-site_author: Author Name
-site_description: >-
-  Site Description
+site_name: Scott Ferguson # TODO: add link
+site_author: Scott Ferguson # TODO: add link
+site_description: >- # TODO: add link
+  Scott Ferguson Blog
 repo_name: blog
-repo_url: https://github.com/jxnl/blog/
-site_url: https://jxnl.co/
+repo_url: https://github.com/ksferguson/blog/ # TODO: add link
+site_url: https://ksferguson.github.io/ # TODO: add link
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Jason Liu 
+copyright: Copyright &copy; 2024 Scott Ferguson # TODO: add link
 theme:
   name: material
   icon:
@@ -139,10 +139,12 @@ extra:
     provider: google
     property: G-XXXX
   social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kscottferguson # TODO: add link
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/jxnlco # TODO: add link
+      link: https://twitter.com/ksferguson # TODO: add link
     - icon: fontawesome/brands/github
-      link: https://github.com/jxnl # TODO: add link
+      link: https://github.com/ksferguson # TODO: add link
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -150,4 +152,3 @@ extra_javascript:
   - javascripts/analytics.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-copyright: Copyright &copy; 2023 Jason Liu
