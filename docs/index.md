@@ -2,28 +2,29 @@
 
 If you're facing any of these challenges, I can help:
 
-- **Scaling Complexity**: Wrestling with AI systems that become increasingly complex and harder to maintain
-- **Integration Bottlenecks**: Struggling to seamlessly integrate AI capabilities into existing workflows
-- **Performance Issues**: Dealing with slow response times and high costs in production systems
-- **Quality Control**: Maintaining consistency and reliability in AI-powered features
-- **Technical Debt**: Accumulating technical debt from rapid AI implementation
+- **Data Leakage**: Mitigating user data leakage & oversharing risks with Copilot usage
+- **User Adoption**: Building out corporate competencies for securely using AI
+- **Gen AI Strategy**: Architecting the organizational strategy for Generative AI tech
+- **AI Innovation**: Keeping up with accelerating rate of change with AI and its business implications 
 
 ## Recent Client Success Stories
 
 | Industry | Challenge Solved | Impact |
 |----------|-----------------|---------|
-| Enterprise SaaS | Optimized RAG pipeline | 60% cost reduction |
-| AI Startup | Scaled inference system | 3x throughput increase |
-| FinTech | Improved response accuracy | 40% better precision |
+| AI Startup | Image feature MLM extraction | Kickstarted recommendation system data|
+| Enterprise SaaS | Copilot Assessment | M365 Copilot Rollout |
+| Specialty Chemicals | Copilot Assessment | M365 Copilot Pilot |
+| Manufacturer | Data Lakehouse & AI Platform | BI Team Enablement |
 
 ## Who I Am
 
-An experienced technical consultant specializing in AI implementation and optimization. I help teams:
+An experienced Data & AI consultant/advisor specializing in Applied AI implementations and business strategy. I help teams:
 
-- Build robust AI systems that scale
-- Optimize performance and reduce costs
-- Implement best practices for long-term success
-- Enable teams with the right tools and knowledge
+- Architect AI for apps/systems  
+- Build robust AI systems with business impact
+- Safely introduce AI into the enterprise
+- Guide enterprises on Gen AI strategy & innovation
 
-[Schedule a Consultation](https://cal.com/your-handle){ .md-button .md-button--primary }
+[Schedule a Consultation](https://cal.com/ksferguson){ .md-button .md-button--primary }
+
 [Read the Blog](./blog/index.md){ .md-button }

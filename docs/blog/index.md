@@ -1,18 +1,18 @@
 # Blog
 
-Welcome to my technical blog where I share insights about:
+Welcome to my Applied AI blog where I share insights about:
 
 - AI System Implementation
 - Technical Architecture Design
-- Performance Optimization
-- Team Enablement
+- AI Innovation
+- Organizational Strategy
 
-## Featured Posts
+## Consulting Tips
 
-*Add your technical blog posts in the `posts` directory.*
+- [Personal Blog mkdocs](./posts/mkdocsblog.md): Personal blog with mkdocs and github.io
 
 ## Stay Updated
 
 Subscribe to receive technical insights and best practices:
 
-[Subscribe to Updates](#) *(Add your newsletter signup link)*
+[Subscribe to Updates](https://cal.com/ksferguson){ .md-button .md-button--primary }
