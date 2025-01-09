@@ -2,10 +2,10 @@
 
 Welcome to my Applied AI blog where I share insights about:
 
-- AI System Implementation
-- Technical Architecture Design
+- Applied Generative AI Strategy
+- Enterprise AI Adoption
 - AI Innovation
-- Organizational Strategy
+- AI Systems Architecture & Design
 
 ## Consulting Tips
 
@@ -15,4 +15,4 @@ Welcome to my Applied AI blog where I share insights about:
 
 Subscribe to receive technical insights and best practices:
 
-[Subscribe to Updates](https://cal.com/ksferguson){ .md-button .md-button--primary }
+[Subscribe to Updates](https://ksferguson.kit.com/4e9ab54dc9){ .md-button .md-button--primary }

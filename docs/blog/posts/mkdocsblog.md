@@ -12,21 +12,21 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 
 ## Get Jason Liu's consulting blog template
 
-- **Assumptions**
-These specific walkthrough steps are based on: 
+- **Assumptions** - Things you have:
 	- Win11 
 	- Anaconda for Python environments and command terminals
 	- Git Bash or similar installed 
 	- local repos in ```%USERPROFILE%\github\``` directory
 	- a Github account
-	- the repo is named blog
+	- your repo to be named 'blog'
 
 - **Get the repo**
 	- Fork: https://github.com/jxnl/consulting-blog-template to your own github account, renaming it to the shorter 'blog'
 	- Clone local copy to ```%USERPROFILE%\github\blog```
 
 - **Setup a website**
-	- Create a username.github.io account (using your username): https://pages.github.com/
+	- Create a username.github.io account (using your 'username'): 
+		- https://pages.github.com/
 	- Clone local copy to ```%USERPROFILE%\github\username.github.io``` 
 
 - **Create a Python environment**
@@ -50,44 +50,50 @@ These specific walkthrough steps are based on:
 	pacman -S mingw-w64-ucrt-x86_64-cairo
 	```
 
-	- Check path variables 
 	- Ensure that the mkdocs build step works before proceeding
+		- Check path variables if neccesary
 
 ## Content Updates to make to go-live: 
 - mkdocs.yml
 	- update the following fields:
-	- [x] site_name: 'your name' 
-	- [x] site_author: 'your name' 
-	- [x] site_description: 'your name +/- desc'
-	- [x] repo_name: 'the github repo name (that holds your blog) - "blog" recommended'
-	- [x] repo_url: 'the github repo name (that holds your blog) - "blog" recommended'
-	- [x] site_url: 'e.g. https://yourname.github.io/'
-	- [x] copyright:
+	- [ ] site_name: 'your name' 
+	- [ ] site_author: 'your name' 
+	- [ ] site_description: 'your name +/- desc'
+	- [ ] repo_name: 'the github repo name (that holds your blog) - "blog" recommended'
+	- [ ] repo_url: 'the github repo name (that holds your blog) - "blog" recommended'
+	- [ ] site_url: 'e.g. https://username.github.io/'
+	- [ ] copyright: 'your name' 
 	- social:
-		- [x] optionally add LinkedIn (or other socials)
+		- [ ] optionally add LinkedIn (or other socials)
 			- icon: 'fontawesome/brands/linkedin'
 			- link: 'update your LinkedIn link'
-		- [x] link: 'update your twitter link'
-		- [x] link: 'update your github link'
+		- [ ] link: 'update your twitter link'
+		- [ ] link: 'update your github link'
 - docs/index.md
-	- [x] update 'challenges' bullet points
-	- [x] add your recent 'client success stories' to the table (or provide other proof)
-	- [x] update 'help' text and bullet points 
+	- [ ] update 'challenges' bullet points
+	- [ ] add your recent 'client success stories' to the table (or provide other proof)
+	- [ ] update 'help' text and bullet points
+	- [ ] setup cal.com acct or similar
+	- [ ] update [Schedule a Consultation] button URL with your scheduler link
 - docs/blog/index.md
-	- [x] customize 'insights' bullet points
-	- [x] add a featured post with markdown as below, with seperate sections for key posts using markdown ```## New Section```   
-		```- [Example Blag Post](./posts/example.md): What's next for Example?```
-	- update "Subscribe to Updates" url
+	- [ ] customize 'insights' bullet points
+	- [ ] add a featured post with markdown as below, with seperate sections for key posts using markdown 
+		```
+		## New Section   
+		[Example Blag Post](./posts/example.md): What's next for Example?
+		```
+	- [ ] update "Subscribe to Updates" url for your newsletter (or remove this subsection)
 		- [ ] Setup convertkit account at kit.com (or podia.com for advanced users)
 		- [ ] update the url to your subscribe link
-		- [x] add ```{ .md-button .md-button--primary }``` directly after (url), no space, to make link into primary button
+		- [ ] add ```{ .md-button .md-button--primary }``` directly after (url), no space, to make link into primary button
 - docs/blog/.authors.yml 
-	- [x] update "name" with your name
-	- [x] update "avatar" with your github picture - find your github profile pic, right click & select 'copy image address' to get url
-	- [x] update "url" with your twitter handle
+	- [ ] update "name" with your name
+	- [ ] update "avatar" with your github picture - find your github profile pic, right click & select 'copy image address' to get url
+	- [ ] update "url" with your twitter handle
 - docs/blog/posts/
-	- [x] add at least one post (then link it as a featured post)
+	- [ ] add at least one post (then link it as a featured post)
 	- [ ] delete example.md post (it is useful as an example)
+	- [ ] you can delete this post, mkdocsblog.md if it exists 
 - docs/
 	- [ ] delete writing-samples.md (it is useful as an example)
 
@@ -101,7 +107,7 @@ These specific walkthrough steps are based on:
    ```
 
 - **Iterate Content**
-	- edit files in the blog repo under 'docs' folder (and mkdoc.yml)
+	- edit files in the blog repo under 'docs' folder (and mkdoc.yml) using Cursor or Visual Studio Code
 	- serve locally 
 		```
 		mkdocs serve -w .
@@ -118,7 +124,7 @@ These specific walkthrough steps are based on:
 - **Save Blog**
 	- Check changes & add new files per usual ```git status```, ```git add -all``` etc.
 	- Commit changes to your local blog repo ```git commit -m "my blog updates"```
-	- Optional: Push blog markdown to github: ```git push origin```
+	- Optional: Push blog markdown to github.com: ```git push origin```
 
 - **Publish Blog**
 	- Reference: https://www.mkdocs.org/user-guide/deploying-your-docs/#organization-and-user-pages
@@ -139,10 +145,32 @@ These specific walkthrough steps are based on:
 
 - **Custom URL Setup (one time)**
 	- By default, your blog/website will be at https://username.github.io, but you can easily give it a custom URL
-	- Buy a domain of your choice: e.g. username.com
-	- Review!: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+	- Buy a domain of your choice: e.g. 'username.com'
+	- Reference: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
 		- Configure DNS, Verify the Domain, and Enable the Custom domain on your github.io site
-		- No wildcards 
+			- github.io specifics:
+				- No wildcards
+				- Ensure verification is complete even if you have to wait 24h
+		- Setup A records to point your domain to github.io, e.g.
+		
+		| Host | Type | Priority | Data |
+		|------|------|----------| -----|
+		| @ | A | — | 185.199.108.153 |
+		| @ | A | — | 185.199.109.153 |
+		| @ | A | — | 185.199.110.153 |
+		| @ | A | — | 185.199.111.153 |
+
+		- Setup CNAME record to point your domain to github.io, e.g.
+
+		| Host | Type | Priority | Data |
+		|------|------|----------| -----|
+		| www | CNAME | — | username.github.io |
+
+		- I found that while the A records took effect very quickly, I had to wait some time before the CNAME record kicked in.
+
+		- Add 'CNAME' text file to 'docs' folder with 'yourdomain.com' as only text (no quotes)
+		- [ ] TODO: Verify this step
 
 ## Conclusion
 
+You should now have a working personal blog based on mkdocs and a material theme. It's free, writtten in Markdown and publishable via standard git & mkdocs terminal commands. Time to get busy revising the content.

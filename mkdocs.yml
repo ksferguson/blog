@@ -1,4 +1,4 @@
-site_name: Scott Ferguson # TODO: add link
+site_name: K. Scott Ferguson, PhD # TODO: add link
 site_author: Scott Ferguson # TODO: add link
 site_description: >- # TODO: add link
   Scott Ferguson Blog
@@ -6,7 +6,7 @@ repo_name: blog
 repo_url: https://github.com/ksferguson/blog/ # TODO: add link
 site_url: https://ksferguson.github.io/ # TODO: add link
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Scott Ferguson # TODO: add link
+copyright: Copyright &copy; 2024 K. Scott Ferguson # TODO: add link
 theme:
   name: material
   icon:
