@@ -148,6 +148,14 @@ Finally, you probably don't need recurring subscriptions to every model under th
 
 The most successful executives will be those who can effectively leverage AI tools freeing up more time for strategic focus and human judgment. Begin your journey today with small steps, and build momentum through consistent practice and learning.
 
+## Let's talk!
+
+[Schedule a Consultation](https://cal.com/ksferguson){ .md-button .md-button--primary }
+
+
+[Subscribe to Updates](https://ksferguson.kit.com/4e9ab54dc9){ .md-button .md-button--primary }
+
+
 ## Note:
 
 This guide was created through an iterative conversation with Claude Pro, spanning over 30 prompts and replies. The development process itself demonstrates the power of AI collaboration - starting with a basic outline and progressively refining it through focused feedback and revision. Finally, I edited the Markdown draft using Cursor.

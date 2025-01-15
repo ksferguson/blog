@@ -174,3 +174,11 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 ## Conclusion
 
 You should now have a working personal blog based on mkdocs and a material theme. It's free, writtten in Markdown and publishable via standard git & mkdocs terminal commands. Time to get busy revising the content.
+
+## Let's talk!
+
+[Schedule a Consultation](https://cal.com/ksferguson){ .md-button .md-button--primary }
+
+
+[Subscribe to Updates](https://ksferguson.kit.com/4e9ab54dc9){ .md-button .md-button--primary }
+
