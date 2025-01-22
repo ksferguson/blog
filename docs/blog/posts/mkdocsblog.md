@@ -122,7 +122,7 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 		``` 
 
 - **Save Blog**
-	- Check changes & add new files per usual ```git status```, ```git add``` etc.
+	- Check changes & add new files per usual ```git status```, ```git add .``` etc.
 	- Commit changes to your local blog repo ```git commit -m "my blog updates"```
 	- Optional: Push blog markdown to github.com: ```git push origin```
 
