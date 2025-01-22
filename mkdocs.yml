@@ -1,12 +1,12 @@
-site_name: K. Scott Ferguson, PhD # TODO: add link
-site_author: Scott Ferguson # TODO: add link
-site_description: >- # TODO: add link
+site_name: K. Scott Ferguson, PhD
+site_author: Scott Ferguson 
+site_description: >- 
   Scott Ferguson Blog
 repo_name: blog
-repo_url: https://github.com/ksferguson/blog/ # TODO: add link
-site_url: https://fergusonanalytics.com # TODO: add link, change this after setting up CNAME!
+repo_url: https://github.com/ksferguson/blog/ 
+site_url: https://fergusonanalytics.com 
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 K. Scott Ferguson # TODO: add link
+copyright: Copyright &copy; 2024 K. Scott Ferguson 
 theme:
   name: material
   icon:
@@ -140,11 +140,11 @@ extra:
     property: G-XXXX
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/kscottferguson # TODO: add link
+      link: https://www.linkedin.com/in/kscottferguson 
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/ksferguson # TODO: add link
+      link: https://twitter.com/ksferguson 
     - icon: fontawesome/brands/github
-      link: https://github.com/ksferguson # TODO: add link
+      link: https://github.com/ksferguson 
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
