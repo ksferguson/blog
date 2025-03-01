@@ -1,9 +1,7 @@
-site_name: K. Scott Ferguson, PhD
+site_name: K. Scott Ferguson
 site_author: Scott Ferguson 
 site_description: >- 
   Scott Ferguson Blog
-repo_name: blog
-repo_url: https://github.com/ksferguson/blog/ 
 site_url: https://fergusonanalytics.com 
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 K. Scott Ferguson 
@@ -29,30 +27,26 @@ theme:
       quote: octicons/quote-16
   features:
     - announce.dismiss
-    - content.action.edit
-    - content.action.view
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - navigation.prune
+    - navigation.footer
+    - header.autohide
     - content.code.annotate
     - content.code.copy
     - content.code.select
     - content.tabs.link
     - content.tooltips
-    - header.autohide
-    - navigation.expand
-    - navigation.footer
-    - navigation.indexes
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
-    - navigation.prune
-    - navigation.sections
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
-    - toc.follow
   font:
     text: Roboto
     code: Roboto Mono

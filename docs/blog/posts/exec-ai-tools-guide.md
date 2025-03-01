@@ -9,6 +9,8 @@ author:
 ## Why This Matters Now
 As an executive, you're facing a pivotal moment. AI tools are transforming how we work, think, and lead. While the landscape of AI tools is overwhelming, the cost of staying on the sidelines is growing. This guide provides a structured path to building your AI capabilities, one tool at a time.
 
+<!-- more -->
+
 ## The Progressive Adoption Framework
 
 Quick Overview:
