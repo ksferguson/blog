@@ -14,7 +14,7 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 
 - **Assumptions** - Things assumed below (obviously the general flow will also work for Linux, MacOS, etc. though some commands will differ):
 	- Win11 
-	- Anaconda for Python environments and command terminals
+	- uv for Python & package management
 	- Git Desktop/Git Bash or similar installed 
 	- local repos in ```%USERPROFILE%\github\``` directory
 	- a Github account
@@ -33,9 +33,10 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 	
 	```
 	cd %USERPROFILE%\github\blog
-	conda create blog
-	conda activate blog
-	pip install -r requirements-doc.txt
+	uv init
+	uv venv
+	.venv\Scripts\activate
+	uv add -r requirements-doc.txt
 	mkdocs build
 	```
 	If it all works, you can skip the next subsection.
@@ -59,8 +60,8 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 	- [ ] site_name: 'your name' 
 	- [ ] site_author: 'your name' 
 	- [ ] site_description: 'your name +/- desc'
-	- [ ] repo_name: 'the github repo name (that holds your blog) - "blog" recommended'
-	- [ ] repo_url: 'the github repo url (that holds your blog)
+	- [ ] repo_name: (comment out row to remove header link to you github content)
+	- [ ] repo_url: (comment out row to remove header link to you github content)
 	- [ ] site_url: 'e.g. https://username.github.io/' (you can change this later after your custom domain is setup)
 	- [ ] copyright: 'your name/LLC' 
 	- social:
@@ -101,13 +102,14 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 
 - **Run Locally**: Start a local server to preview your site.
    ```
-   conda activate blog
    cd %USERPROFILE%\github\blog
+   .venv\Scripts\activate
    mkdocs serve -w .
    ```
+   View: http://127.0.0.1:8000/
 
 - **Iterate Content**
-	- edit files in the blog repo under 'docs' folder (and mkdoc.yml) using Cursor, Visual Studio Code, etc.
+	- edit files in the blog repo under 'docs' folder (and mkdoc.yml) using Cursor, etc.
 	- serve locally 
 		```
 		mkdocs serve -w .
@@ -115,7 +117,7 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 	- view on local browser e.g. http://127.0.0.1:8000/
 	- often saving a .md file will auto-refresh the site
 	- on error: 
-		- hit CTRL-C in the Anaconda prompt window, then
+		- hit CTRL-C in terminal, then
 		- serve locally again 
 		```
 		mkdocs serve -w .
@@ -191,3 +193,4 @@ Feel free to reach out if you have a question or suggestions.
 
 [Subscribe to Updates](https://ksferguson.kit.com/4e9ab54dc9){ .md-button .md-button--primary }
 
+Updated: 2024-03-01 - Changed to uv for python venv & package mgmt
