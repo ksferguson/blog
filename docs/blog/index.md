@@ -11,6 +11,8 @@ Welcome to my Applied AI blog where I share insights about:
 
 - [Exec's AI Toolstack](./posts/exec-ai-tools-guide.md): Executive's Guide to Building Your AI Toolstack
 
+- [AI-Powered Slide Decks](./posts/ai-slides-guide.md): In Under an Hour
+
 ## AI for Developers
 
 - [AI Tools for Devs](./posts/dev-ai-tools-guide.md): Essential AI Tools for Modern Software Engineers
@@ -19,6 +21,8 @@ Welcome to my Applied AI blog where I share insights about:
 ## Consulting Tips
 
 - [Personal Blog mkdocs](./posts/mkdocsblog.md): Personal blog with mkdocs and github.io
+
+- [AI-Powered Slide Decks](./posts/ai-slides-guide.md): In Under an Hour
 
 ## Stay Updated
 
