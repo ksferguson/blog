@@ -60,8 +60,8 @@ Capture your client's attention with a spiffy personal blog based on mkdocs and 
 	- [ ] site_name: 'your name' 
 	- [ ] site_author: 'your name' 
 	- [ ] site_description: 'your name +/- desc'
-	- [ ] repo_name: (comment out row to remove header link to you github content)
-	- [ ] repo_url: (comment out row to remove header link to you github content)
+	- [ ] repo_name: (comment out row to remove header link to your github content)
+	- [ ] repo_url: (comment out row to remove header link to your github content)
 	- [ ] site_url: 'e.g. https://username.github.io/' (you can change this later after your custom domain is setup)
 	- [ ] copyright: 'your name/LLC' 
 	- social:
