@@ -10,12 +10,12 @@ We can help:
 
 | Industry | Challenge Solved | Impact |
 |----------|-----------------|---------|
-| Data Analytics Consultancy | Business  & Data Strategy Voice Agent | Proved out new realtime capability |
-| Venture Capital | AI Due Diligence | Evaluated soundness of technical strategy |
-| Mobile App Startup | Multi-modal Language Model Image Feature Extraction | Pivoted to new revenue model |
+| Data Analytics | Business Strategy Voice Agent | Proved out new realtime voice capability |
+| Venture Capital | AI Due Diligence | Confirmed soundness of technical strategy |
+| Mobile App Startup | Generative AI Strategy | Pivoted to new consumer use cases |
 | Enterprise SaaS | Copilot Technical Assessment | Enabled M365 Copilot Enterprise Rollout |
-| Specialty Chemicals | Copilot Readiness | Accessed Security for M365 Copilot User Pilot |
-| Manufacturer | Lacking Data Lakehouse & AI Platform | Built platform for new Data Analytics Team |
+| Specialty Chemicals | M365 Copilot Readiness | Secured Org for Copilot Pilot |
+| Manufacturer | Data Lakehouse & AI Platform | Enabled new Data Analytics Team |
 
 ## Who We Are
 

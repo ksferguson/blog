@@ -2,7 +2,7 @@
 
 Welcome to Ferguson Analytics' Applied AI blog where we share insights highlighting how we apply AI tools & technology to help our clients thrive in the midst of AI innovation and disruption.
 
-## AI for Executives
+## AI for Executives & Entrepreneurs
 
 - [AI-Powered Slide Decks](./posts/ai-slides-guide.md): In Under an Hour
 
