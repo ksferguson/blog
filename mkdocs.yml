@@ -1,10 +1,10 @@
-site_name: K. Scott Ferguson
+site_name: Ferguson Analytics
 site_author: Scott Ferguson 
 site_description: >- 
   Scott Ferguson Blog
 site_url: https://fergusonanalytics.com 
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 K. Scott Ferguson 
+copyright: Copyright &copy; 2024-2025 Ferguson Analytics LLC 
 theme:
   name: material
   icon:
@@ -50,6 +50,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+draft_docs: |
+  staging/
+  *_draft.md
 # Extensions
 markdown_extensions:
   - abbr

@@ -2,9 +2,9 @@
 
 We can help:
 
-- **Gen AI Strategy**: Architecting the organizational strategy for Generative AI technology
-- **AI Innovation**: Keeping up with accelerating rate of change with AI and its business implications 
-- **Agentic AI**: AI Agents & automation
+- **Gen AI Strategy**: Architect the organizational strategy for Generative AI technology
+- **AI Innovation**: Keep up with accelerating rate of change with AI and its business implications 
+- **Agentic AI**: Deploy AI Agents & automation
 
 ## Recent Client Success Stories
 
@@ -19,14 +19,13 @@ We can help:
 
 ## Who We Are
 
-Ferguson Analytics is a veteran  Data & AI Advisory (founded by a Harvard PhD) specializing in Applied AI implementations and business strategy. We help:
+Ferguson Analytics is a veteran Data & AI Advisory (founded by a Harvard PhD) specializing in Applied AI implementations and business strategy. We help:
 
-- Guide organizations on the Gen AI strategy & innovation journey
 - Build robust AI systems with business impact
 - Safely & effectively introduce AI into the enterprise
 - Lay the foundations for competitive success
 
-## Book a Free Call Today!
+## Got a question? Book a Call Today!
 
 [Schedule a Free Consult](https://cal.com/ksferguson){ .md-button .md-button--primary }
 

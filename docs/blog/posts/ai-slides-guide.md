@@ -4,13 +4,13 @@ author:
  - me
 ---
 
-# AI-Powered Slide Decks: Your Strategic Advantage in 2025
+# AI-Powered Slide Decks: In under an Hour
 
-## 🧠 The Pitch Meeting Is in 3 Days. Your Deck Isn't ...
+## 🧠 The Pitch Meeting Is in 3 Days...
 
-You're staring at a blank slide, your designer is out, and your calendar is packed. Sound familiar?
+You're staring at a blank slide, your designer is out, and your calendar is packed with back-to-back meetings. Sound familiar?
 
-What if you could generate a professional, visual, on-brand presentation in under an hour—without touching PowerPoint formatting tools or scrambling for stock images?
+What if you could generate a professional, visual, on-brand presentation in under an hour — without touching PowerPoint formatting tools or scrambling for stock images?
 
 
 <!-- more -->
@@ -30,12 +30,13 @@ Include your blogs, strategy docs, or previous presentations in your Project for
 
 ### **2. Turn It Into Slides (15 minutes)**  
 **Tool: [Gamma.app](https://gamma.app)**  
-Paste your outline into Gamma and instantly get a design-forward presentation with:  
+Paste your outline into Gamma and see a striking presentation build itself in seconds:  
 - Clean layouts  
 - AI-generated visuals  
 - Cohesive styling
 
 ### **3. Refine and Personalize (20 minutes)**  
+- Edit picture prompts and models to regenerate pics
 Use prompts like:  
 - “Make this slide more minimalist”  
 - “Add an icon for human-AI collaboration”  
@@ -54,7 +55,7 @@ Instead of sweating the format, you're elevating the strategic narrative.
 
 ## ⚠️ Common Pitfalls to Avoid
 
-- **Generic Slides:** Use your language and context to personalize prompts.
+- **Generic Slides:** Use your own language and context to personalize prompts.
 - **Off-brand visuals:** Upload or define brand assets inside both your Project and your Gamma theme. [Import Your Brand](https://www.youtube.com/watch?v=Z6kd2HS7VxA)
 - **Too automated:** Always inject personal insight into key points.
 
