@@ -8,18 +8,19 @@ Welcome to Ferguson Analytics' Applied AI blog where we share insights highlight
 
 - [Exec's AI Toolstack](./posts/exec-ai-tools-guide.md): Executive's Guide to Building Your AI Toolstack
 
+## AI Investment Series: Evaluating AI Startups in 2025
 
-## AI for Developers
-
-- [AI Tools for Devs](./posts/dev-ai-tools-guide.md): Essential AI Tools for Modern Software Engineers
-
+- Part 1 [The AI Strategy That's Killing Startups](./posts/ai-models-startups.md) 
 
 ## AI for Consultants
 
-- [AI-Powered Slide Decks](./posts/ai-slides-guide.md): In Under an Hour
+- [AI Tools for Devs](./posts/dev-ai-tools-guide.md): Essential AI Tools for Modern Software Engineers
 
 - [Personal Blog mkdocs](./posts/mkdocsblog.md): Personal blog with mkdocs and github.io
 
+## AI in Houston
+
+- [Houston AI, Tech, and Startup Events](./posts/houstonaievents.md) 
 
 ## Stay Updated
 
