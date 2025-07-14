@@ -11,6 +11,7 @@ Welcome to Ferguson Analytics' Applied AI blog where we share insights highlight
 ## AI Investment Series: Evaluating AI Startups in 2025
 
 - Part 1 [The AI Strategy That's Killing Startups](./posts/ai-models-startups.md) 
+- Part 2 [The Great AI Feature Convergence](./posts/ai-feature-convergence.md)
 
 ## AI for Consultants
 
