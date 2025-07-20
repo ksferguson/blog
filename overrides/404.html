@@ -10,13 +10,13 @@
   {{ super() }}
   <script>
     const redirects = {
-        '/blog/2025/01/15/the-executives-guide-to-building-your-ai-toolstack-a-progressive-approach/': '/blog/exec-ai-tools-guide/',
         '/blog/2024/12/20/personal-blog-with-mkdocs-and-githubio/': '/blog/mkdocs-blog-guide/',
-        '/blog/2025/01/27/dev-ai-tools-guide/': '/blog/developer-ai-tools/',
-        '/blog/2025/04/05/ai-slides-guide/': '/blog/ai-presentation-tools/',
-        '/blog/2025/07/04/ai-models-startups/': '/blog/ai-strategy-startups/',
-        '/blog/2025/07/02/houstonaievents/': '/blog/houston-ai-events/',
-        '/blog/2025/07/13/ai-feature-convergence/': '/blog/ai-feature-convergence/'
+        '/blog/2025/01/15/the-executives-guide-to-building-your-ai-toolstack-a-progressive-approach/': '/blog/exec-ai-tools-guide/',
+        '/blog/2025/01/27/essential-ai-tools-for-modern-software-engineers-a-practical-guide/': '/blog/dev-ai-tools-guide/',
+        '/blog/2025/04/05/ai-powered-slide-decks-in-under-an-hour/': '/blog/ai-slides-guide/',
+        '/blog/2025/07/02/houston-ai-tech-and-startup-events/': '/blog/houston-ai-events/',
+        '/blog/2025/07/04/the-ai-strategy-thats-killing-startups/': '/blog/ai-models-startups/',
+        '/blog/2025/07/13/the-great-ai-feature-convergence/': '/blog/ai-feature-convergence/'
     };
     
     if (redirects[window.location.pathname]) {
@@ -24,3 +24,12 @@
     }
     </script>
 {% endblock %}
+
+
+'blog/2025/01/15/the-executives-guide-to-building-your-ai-toolstack-a-progressive-approach/': 'blog/ai-strategy/exec-ai-tools-guide/'
+'blog/2024/12/20/personal-blog-with-mkdocs-and-githubio/': 'blog/implementation/mkdocs-blog-guide/'
+'blog/2025/01/27/dev-ai-tools-guide/': 'blog/developer-ai-tools/'
+'blog/2025/04/05/ai-slides-guide/': 'blog/ai-presentation-tools/'
+'blog/2025/07/04/ai-models-startups/': 'blog/ai-strategy-startups/'
+'blog/2025/07/02/houstonaievents/': 'blog/houston-ai-events/'
+'blog/2025/07/13/ai-feature-convergence/': 'blog/ai-feature-convergence/'
