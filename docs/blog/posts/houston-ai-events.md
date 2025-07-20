@@ -1,5 +1,6 @@
 ---
 date: 2025-07-02
+slug: houston-ai-events
 author:
  - me
 ---

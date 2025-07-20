@@ -1,5 +1,6 @@
 ---
 date: 2025-04-05
+slug: ai-slides-guide
 author:
  - me
 ---

@@ -1,5 +1,7 @@
 ---
 date: 2025-01-27
+slug: dev-ai-tools-guide
+
 author:
  - me
 ---
@@ -21,7 +23,7 @@ The pace of AI tool evolution has really accelerated. What was state of the art 
 
 **What sets it apart:** This is where it all got started
 
-- Real-world impact: 26% increase in coding prodcutivity (per Github)
+- Real-world impact: 26% increase in coding productivity (per Github)
 - Best for: Day-to-day coding across all languages, enterprise acceptance
 - Key feature: Inline suggestions & explanations
 

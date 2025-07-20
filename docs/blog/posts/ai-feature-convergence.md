@@ -1,5 +1,6 @@
 ---
 date: 2025-07-13
+slug: ai-feature-convergence
 author:
  - me
 ---

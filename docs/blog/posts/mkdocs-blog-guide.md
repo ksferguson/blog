@@ -1,5 +1,6 @@
 ---
 date: 2024-12-20
+slug: mkdocs-blog-guide
 author:
  - me
 ---
