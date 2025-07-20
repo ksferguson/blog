@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Redirecting...</title>
-    <script>
-    // Redirect mapping
+{% extends "main.html" %}   
+
+<!-- Scripts -->
+{% block scripts %}
+  {{ super() }}
+  <script>
     const redirects = {
         '/blog/2025/01/15/the-executives-guide-to-building-your-ai-toolstack-a-progressive-approach/': '/blog/exec-ai-tools-guide/',
         '/blog/2024/12/20/personal-blog-with-mkdocs-and-githubio/': '/blog/mkdocs-blog-guide/',
@@ -15,19 +14,8 @@
         '/blog/2025/07/13/ai-feature-convergence/': '/blog/ai-feature-convergence/'
     };
     
-    const currentPath = window.location.pathname;
-    console.log('404 page - current path:', currentPath);
-    
-    if (redirects[currentPath]) {
-        console.log('Redirecting to:', redirects[currentPath]);
-        window.location.replace(redirects[currentPath]);
-    } else {
-        console.log('No redirect found, showing 404');
-        document.body.innerHTML = '<h1>Page Not Found</h1><p>The page you are looking for has moved. <a href="/blog/">Visit our blog</a></p>';
+    if (redirects[window.location.pathname]) {
+        window.location.replace(redirects[window.location.pathname]);
     }
     </script>
-</head>
-<body>
-    <p>Redirecting...</p>
-</body>
-</html>
+{% endblock %}
