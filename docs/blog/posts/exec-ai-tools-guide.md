@@ -1,7 +1,21 @@
 ---
+title: "How Should Executives Choose AI Tools? A Progressive Implementation Guide"
+description: "Step-by-step framework for executives to implement personal AI tools progressively, from ChatGPT to Claude."
 date: 2025-01-15
-author:
- - me
+updated: 2025-07-19
+categories:
+  - AI Strategy
+tags:
+  - executives
+  - chatgpt
+  - claude
+  - copilot
+  - roi-analysis
+  - enterprise-ai
+  - productivity
+  - implementation-guide
+slug: exec-ai-tools-guide
+
 ---
 
 # The Executive's Guide to Building Your AI Toolstack: A Progressive Approach

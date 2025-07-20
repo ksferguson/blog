@@ -1,7 +1,9 @@
 site_name: Ferguson Analytics
 site_author: Scott Ferguson 
-site_description: >- 
-  Scott Ferguson Blog
+site_description: >-
+  Ferguson Analytics Applied AI Blog - Strategic insights for executives implementing 
+  AI tools, investors evaluating AI companies, and organizations pursuing measurable 
+  AI transformation. Founded by Harvard PhD Scott Ferguson.
 site_url: https://fergusonanalytics.com 
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024-2025 Ferguson Analytics LLC 
@@ -129,8 +131,16 @@ plugins:
       blog_toc: true
       post_dir: blog/posts
       post_date_format: yyyy/MM/dd
-      post_url_format: "{date}/{slug}"
       authors_file: "{blog}/.authors.yml"
+      # new AIEO design 2026-07-20
+      post_url_format: "{slug}"
+      categories_allowed:
+        - AI Strategy
+        - Due Diligence
+        - Implementation
+        - Industry Insights
+      categories_name: "Categories"
+      categories_url_format: "category/{slug}"
 extra:
   analytics:
     provider: google
