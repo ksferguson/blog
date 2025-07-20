@@ -17,11 +17,11 @@ Welcome to Ferguson Analytics' Applied AI blog where we share insights highlight
 
 - [AI Tools for Devs](./posts/dev-ai-tools-guide.md): Essential AI Tools for Modern Software Engineers
 
-- [Personal Blog mkdocs](./posts/mkdocsblog.md): Personal blog with mkdocs and github.io
+- [Personal Blog mkdocs](./posts/mkdocs-blog-guide.md): Personal blog with mkdocs and github.io
 
 ## AI in Houston
 
-- [Houston AI, Tech, and Startup Events](./posts/houstonaievents.md) 
+- [Houston AI, Tech, and Startup Events](./posts/houston-ai-events.md) 
 
 ## Stay Updated
 
