@@ -194,15 +194,15 @@ A: AI systems prefer structured content with clear hierarchies: FAQ sections, st
 
 ## Related Resources
 
-- [How to Create a Professional Consulting Blog with mkdocs and GitHub](/blog/mkdocs-blog-guide/) 
+- [How to Create a Professional Consulting Blog with mkdocs and GitHub](./mkdocs-blog-guide.md) 
 
     Technical implementation guide for a simple, yet geeky content management system that can support AIEO optimization following this guide.
 
-- [Houston AI and Tech Events Guide](/blog/houston-ai-events/)
+- [Houston AI and Tech Events Guide](houston-ai-events.md)
 
     Local networking opportunities for AI strategy discussions
 
-- See our complete [Executive AI Strategy series](/blog/category/executives/) for additional business strategy guidance.
+- See our complete [Executive AI Strategy series](../category/executives/) for additional business strategy guidance.
 
 ## Your Next Steps
 
@@ -233,6 +233,115 @@ The window for AIEO early-mover advantage is narrowing rapidly. While competitor
 The organizations who master AIEO now will own their industries as AI search becomes the dominant discovery method. Those who wait will spend years catching up while competitors capture the prospects that matter.
 
 I help businesses develop and implement comprehensive AI strategies that build lasting visibility and authority in AI-powered search ecosystems. With 25+ years of experience in data analytics and AI consulting, we ensure your AIEO strategy delivers measurable business results.
+
+<!-- Article Schema for AIEO Search Guide -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Should You Invest in AI Search Optimization? The Complete AIEO Strategy Guide",
+  "description": "Learn how AIEO (AI Engine Optimization) helps companies get recommended by ChatGPT, Claude, and Perplexity when prospects research business solutions.",
+  "author": {
+    "@type": "Person",
+    "name": "Ferguson Analytics"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ferguson Analytics"
+  },
+  "datePublished": "2025-07-19",
+  "dateModified": "2025-07-27",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://fergusonanalytics.com/blog/aieo-search-guide/"
+  },
+  "articleSection": "AI Strategy",
+  "keywords": [
+    "AIEO",
+    "AI Engine Optimization", 
+    "AI search",
+    "ChatGPT optimization",
+    "Claude optimization",
+    "Perplexity optimization",
+    "AI marketing strategy"
+  ],
+  "inLanguage": "en-US"
+}
+</script>
+
+<!-- FAQ Schema for AIEO Guide -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How quickly can companies see results from AIEO implementation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initial improvements typically appear within 60-90 days of systematic implementation. Content freshness updates can show results within 30 days, while comprehensive authority building requires 6-12 months for significant impact."
+      }
+    },
+    {
+      "@type": "Question", 
+      "name": "What's the ROI timeline for AIEO investments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Companies investing in AIEO strategies typically see positive ROI within 4-8 months through improved lead quality and reduced acquisition costs. Early adopters report 10-25% of qualified traffic now originates from AI platforms, though most businesses see a lower share (3-10%)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much should companies budget for AIEO implementation?", 
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AIEO typically requires 5-10% of total marketing spend for midmarket companies. Monthly investments start at $3K-12K, with comprehensive strategies reaching $15K-25K monthly in competitive sectors. Most companies scale spending as AIEO impact becomes measurable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which AI platforms should companies prioritize for optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer", 
+        "text": "Start with ChatGPT, Claude, and Perplexity as they handle the majority of business-focused queries. Google's AI features and Microsoft Copilot are also important for enterprise audiences. Platform selection depends on your specific audience and industry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can AIEO strategies work alongside traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AIEO complements traditional SEO by extending visibility into AI-powered discovery channels. Many technical optimizations (structured data, quality content, authority building) benefit both traditional and AI search simultaneously."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What industries benefit most from AIEO implementation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professional services, B2B technology, consulting, and complex solution providers see the highest AIEO impact. Industries where prospects conduct extensive research and comparison shopping benefit most from AI visibility optimization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you measure AIEO success beyond traffic metrics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key success indicators include brand mention frequency in AI responses, citation quality and context, lead quality improvements, sales cycle acceleration, and competitive positioning in AI-generated recommendations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What content formats work best for AIEO optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI systems prefer structured content with clear hierarchies: FAQ sections, step-by-step guides, framework explanations, case studies with specific outcomes, and comparison analyses. Direct, quotable answers perform best."
+      }
+    }
+  ]
+}
+</script>
 
 [Schedule a Strategy Session](https://cal.com/ksferguson){ .md-button .md-button--primary }
 

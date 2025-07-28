@@ -133,7 +133,7 @@ plugins:
       blog_toc: true
       post_dir: blog/posts
       post_date_format: yyyy/MM/dd
-      post_updated_format: yyyy/MM/dd
+      #post_updated_format: yyyy/MM/dd
       authors_file: "{blog}/.authors.yml"
       # new AIEO design 2026-07-20
       post_url_format: "{slug}"
