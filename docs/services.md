@@ -22,6 +22,7 @@ Ferguson Analytics provides comprehensive AI consulting services for midmarket c
 Develop comprehensive AI strategies that balance innovation with risk management. We work with executive teams to create clear roadmaps for AI adoption while ensuring security, compliance, and measurable ROI.
 
 **What's Included:**
+
 - Current state assessment and AI readiness evaluation
 - Strategic roadmap development with phased implementation
 - Risk assessment and mitigation strategies
@@ -29,6 +30,7 @@ Develop comprehensive AI strategies that balance innovation with risk management
 - Executive stakeholder alignment and change management planning
 
 **Typical Outcomes:**
+
 - Clear 12-18 month AI implementation roadmap
 - Risk mitigation framework for secure AI adoption
 - Executive alignment on AI priorities and investments
@@ -45,6 +47,7 @@ Develop comprehensive AI strategies that balance innovation with risk management
 End-to-end M365 Copilot deployment with comprehensive security assessment and change management. We ensure your organization maximizes productivity gains while maintaining enterprise-grade security and compliance.
 
 **What's Included:**
+
 - Security and compliance readiness assessment
 - Data governance and access control configuration
 - Pilot program design and execution
@@ -52,6 +55,7 @@ End-to-end M365 Copilot deployment with comprehensive security assessment and ch
 - Performance monitoring and optimization
 
 **Typical Outcomes:**
+
 - Secure Copilot deployment across departments
 - Measurable productivity improvements
 - High user adoption rates with proper training
@@ -68,6 +72,7 @@ End-to-end M365 Copilot deployment with comprehensive security assessment and ch
 Comprehensive technical and strategic evaluation for AI startup investments and acquisitions. We help investors and acquirers understand AI company capabilities, technical risks, and competitive positioning.
 
 **What's Included:**
+
 - Technical architecture and capability assessment
 - AI model evaluation and competitive analysis
 - Market positioning and differentiation analysis
@@ -75,6 +80,7 @@ Comprehensive technical and strategic evaluation for AI startup investments and 
 - Post-investment technical advisory support
 
 **Typical Outcomes:**
+
 - Informed investment decisions with technical backing
 - Risk identification and mitigation strategies
 - Competitive landscape understanding
@@ -91,6 +97,7 @@ Comprehensive technical and strategic evaluation for AI startup investments and 
 Deploy AI agents and automation solutions that streamline operations and enhance customer experience. From voice agents to workflow automation, we implement AI solutions that deliver measurable business value.
 
 **What's Included:**
+
 - Use case identification and prioritization
 - Proof-of-concept development and testing
 - Solution architecture and implementation
@@ -98,6 +105,7 @@ Deploy AI agents and automation solutions that streamline operations and enhance
 - Performance monitoring and optimization
 
 **Typical Outcomes:**
+
 - Automated business processes and workflows
 - Enhanced customer experience capabilities
 - Operational cost reduction opportunities
