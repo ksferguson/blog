@@ -4,8 +4,6 @@ description: "Learn how AIEO (AI Engine Optimization) helps companies get recomm
 date: 
   created: 2025-07-19
   updated: 2025-07-27
-#date: 2025-07-19
-#date_updated: 2025-07-27
 categories:
   - Executives
   - Consultants
@@ -194,7 +192,7 @@ A: AI systems prefer structured content with clear hierarchies: FAQ sections, st
 
 ## Related Resources
 
-- [How to Create a Professional Consulting Blog with mkdocs and GitHub](./mkdocs-blog-guide.md) 
+- [How to Create a Professional Consulting Blog with mkdocs and GitHub](mkdocs-blog-guide.md) 
 
     Technical implementation guide for a simple, yet geeky content management system that can support AIEO optimization following this guide.
 
@@ -234,6 +232,16 @@ The organizations who master AIEO now will own their industries as AI search bec
 
 I help businesses develop and implement comprehensive AI strategies that build lasting visibility and authority in AI-powered search ecosystems. With 25+ years of experience in data analytics and AI consulting, we ensure your AIEO strategy delivers measurable business results.
 
+
+[Schedule a Strategy Session](https://cal.com/ksferguson){ .md-button .md-button--primary }
+
+[Subscribe to Updates](https://ksferguson.kit.com/4e9ab54dc9){ .md-button .md-button--primary }
+
+!!! note "Fact Check"
+
+    All figures verified with Perpelxity Pro 7/27/2025.
+
+
 <!-- Article Schema for AIEO Search Guide -->
 <script type="application/ld+json">
 {
@@ -269,7 +277,7 @@ I help businesses develop and implement comprehensive AI strategies that build l
 }
 </script>
 
-<!-- FAQ Schema for AIEO Guide -->
+<!-- FAQ Schema for AIEO Search Guide -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -343,10 +351,78 @@ I help businesses develop and implement comprehensive AI strategies that build l
 }
 </script>
 
-[Schedule a Strategy Session](https://cal.com/ksferguson){ .md-button .md-button--primary }
 
-[Subscribe to Updates](https://ksferguson.kit.com/4e9ab54dc9){ .md-button .md-button--primary }
 
-!!! note "Fact Check"
-
-    All figures verified with Perpelxity Pro 7/27/2025.
+<!-- Organization Schema for Ferguson Analytics -->
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization", 
+      "name": "Ferguson Analytics",
+      "alternateName": "Ferguson Analytics",
+      "url": "https://fergusonanalytics.com",
+      "description": "Veteran Data & AI Advisory specializing in Applied AI implementations and business strategy for enterprises",
+      "foundingDate": "2017",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Global"
+      },
+      "knowsAbout": [
+        "AI Engine Optimization",
+        "Enterprise AI Strategy", 
+        "Microsoft 365 Copilot",
+        "AI Implementation",
+        "Data Analytics",
+        "Business Intelligence",
+        "AI Governance",
+        "Generative AI Strategy"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "AI Consulting Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gen AI Strategy",
+              "description": "Architect organizational strategy for Generative AI technology"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service", 
+              "name": "AI Innovation Consulting",
+              "description": "Keep up with accelerating rate of change with AI and its business implications"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Agentic AI Implementation",
+              "description": "Deploy AI Agents & automation solutions"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "AIEO Implementation", 
+              "description": "AI Engine Optimization to improve visibility in AI-powered search"
+            }
+          }
+        ]
+      },
+      "founder": {
+        "@type": "Person",
+        "name": "Ferguson Analytics Founder",
+        "description": "Harvard PhD with 25+ years of experience in data analytics and AI consulting",
+        "alumniOf": {
+          "@type": "Organization",
+          "name": "Harvard University"
+        }
+      }
+    }
+    </script>
