@@ -8,6 +8,10 @@ Welcome to Ferguson Analytics' Applied AI blog where we share insights highlight
 
 - [Exec's AI Toolstack](./posts/exec-ai-tools-guide.md): Executive's Guide to Building Your AI Toolstack
 
+- [ChatGPT and Claude Projects](./posts/chatgpt-claude-projects.md): Executive's Guide to ChatGPT and Claude Projects
+
+- [Should You Invest in AI Search Optimization](./posts/aieo-search-guide.md) — AIEO implementation strategy for competitive advantage
+
 ## AI Investment Series: Evaluating AI Startups in 2025
 
 - Part 1 [The AI Strategy That's Killing Startups](./posts/ai-models-startups.md) 
