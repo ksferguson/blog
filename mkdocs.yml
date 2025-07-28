@@ -5,7 +5,6 @@ site_description: >-
   AI tools, investors evaluating AI companies, and organizations pursuing measurable 
   AI transformation. Founded by Harvard PhD Scott Ferguson.
 site_url: https://fergusonanalytics.com 
-edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024-2025 Ferguson Analytics LLC 
 theme:
   name: material
@@ -38,6 +37,7 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.top
+    - navigation.tags
     - toc.follow
     - navigation.prune
     - navigation.footer
@@ -114,6 +114,7 @@ nav:
   - Blog:
     - "blog/index.md"
 plugins:
+  - tags
   - social
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
@@ -132,14 +133,19 @@ plugins:
       blog_toc: true
       post_dir: blog/posts
       post_date_format: yyyy/MM/dd
+      post_updated_format: yyyy/MM/dd
       authors_file: "{blog}/.authors.yml"
       # new AIEO design 2026-07-20
       post_url_format: "{slug}"
       categories_allowed:
-        - AI Strategy
-        - Due Diligence
+        - Executives
+        - Builders
+        - Investors
+        - Consultants
+        - Strategy
+        - Productivity
+        - Analysis
         - Implementation
-        - Industry Insights
       categories_name: "Categories"
       categories_url_format: "category/{slug}"
 extra:
@@ -160,5 +166,3 @@ extra_javascript:
   - javascripts/analytics.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-extra_files:
-  - docs/404.html
