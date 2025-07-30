@@ -4,24 +4,25 @@ Welcome to Ferguson Analytics' Applied AI blog where we share insights highlight
 
 ## AI for Executives & Entrepreneurs
 
-- [AI-Powered Slide Decks](./posts/ai-slides-guide.md): In Under an Hour
+- [AI-Powered Slide Decks: In under an Hour](./posts/ai-slides-guide.md)
 
-- [Exec's AI Toolstack](./posts/exec-ai-tools-guide.md): Executive's Guide to Building Your AI Toolstack
+- [How Should Executives Choose AI Tools? A Progressive Implementation Guide](./posts/exec-ai-tools-guide.md)
 
-- [ChatGPT and Claude Projects](./posts/chatgpt-claude-projects.md): Executive's Guide to ChatGPT and Claude Projects
+- [How Should Executives Use ChatGPT Projects and Claude Projects? The Complete Guide](./posts/chatgpt-claude-projects.md)
 
-- [Should You Invest in AI Search Optimization](./posts/aieo-search-guide.md) — AIEO implementation strategy for competitive advantage
+- [Should You Invest in AI Search Optimization? The Complete AIEO Strategy Guide](./posts/aieo-search-guide.md)
 
 ## AI Investment Series: Evaluating AI Startups in 2025
 
 - Part 1 [The AI Strategy That's Killing Startups](./posts/ai-models-startups.md) 
 - Part 2 [The Great AI Feature Convergence](./posts/ai-feature-convergence.md)
+- Part 3 [Data Moats in the AI Era: What Actually Survives Foundation Model Disruption](./posts/ai-data-moats.md)
 
-## AI for Consultants
+## AI for Builders & Consultants
 
-- [AI Tools for Devs](./posts/dev-ai-tools-guide.md): Essential AI Tools for Modern Software Engineers
+- [Essential AI Tools for Modern Software Engineers: A Practical Guide](./posts/dev-ai-tools-guide.md)
 
-- [Personal Blog mkdocs](./posts/mkdocs-blog-guide.md): Personal blog with mkdocs and github.io
+- [Personal blog with mkdocs and github.io](./posts/mkdocs-blog-guide.md)
 
 ## AI in Houston
 
