@@ -110,7 +110,8 @@ markdown_extensions:
       generic: true
 nav:
   - Home: 
-    - Introductions: 'index.md'
+    - Industrial AI: 'index.md'
+  - Services: 'services.md'
   - Blog:
     - "blog/index.md"
 plugins:
