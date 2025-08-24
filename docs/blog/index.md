@@ -16,7 +16,7 @@ Welcome to Ferguson Analytics' Applied AI blog where we share insights highlight
 
 - Part 1 [The AI Strategy That's Killing Startups](./posts/ai-models-startups.md) 
 - Part 2 [The Great AI Feature Convergence](./posts/ai-feature-convergence.md)
-- Part 3 [Data Moats in the AI Era: What Actually Survives Foundation Model Disruption](./posts/ai-data-moats.md)
+- Part 3 [Data Moats in the AI Era](./posts/ai-data-moats.md)
 
 ## AI for Builders & Consultants
 

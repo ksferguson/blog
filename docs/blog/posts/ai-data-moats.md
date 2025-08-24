@@ -75,6 +75,7 @@ Based on current market dynamics, sustainable data moats require four foundation
 The most defensible data moats now center around real-time user interactions and continuous feedback loops. Companies like Spotify and Grammarly excel not because of their initial datasets, but because they create data flywheels where each user interaction improves the experience for all users.
 
 **Key characteristics of strong data flywheels**:
+
 - Continuous data generation through product usage
 - Each interaction adds meaningful value to the overall system
 - Autonomous learning that improves models without manual intervention
@@ -120,7 +121,9 @@ The rise of synthetic data fundamentally alters the data moat calculus. For comp
 ### The Vulnerable: Meeting Recording Apps
 
 **What seemed defensible**: First to market, enterprise relationships, good transcription accuracy, exclusive partnerships
+
 **Why it's not**: Microsoft, Google, and Zoom can bundle meeting intelligence into existing products at marginal cost. OpenAI just added meeting recording for Pro users.
+
 **The cliff**: When Teams/Zoom adds comprehensive AI summaries, switching costs are nearly zero because the tools aren't embedded in critical business processes.
 
 ### The Fortress: Industry Standard Data Currency
@@ -216,7 +219,7 @@ A: The timeline has compressed dramatically. Public or purchasable datasets can 
 
 **Q: What role does synthetic data play in undermining traditional data moats?**
 
-A: Synthetic data is fundamentally changing data scarcity economics. With 60% of AI projects expected to use synthetic data by 2024, many "proprietary" datasets can now be artificially generated. However, synthetic data faces the "model collapse" constraint when AI systems train on recursively generated data. This creates opportunities for companies with continuous real-world data streams, making fresh, real data more valuable than static historical datasets.
+A: Synthetic data is fundamentally changing data scarcity economics. With 60% of AI projects using synthetic data in 2025, many "proprietary" datasets can now be artificially generated. However, synthetic data faces the "model collapse" constraint when AI systems train on recursively generated data. This creates opportunities for companies with continuous real-world data streams, making fresh, real data more valuable than static historical datasets.
 
 **Q: How can AI startups solve the cold start problem when building data network effects?**
 
