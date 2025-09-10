@@ -19,7 +19,7 @@ authors:
   - me
 ---
 
-# How Can Fabric Professionals Thrive in the AI Age: A Career Strategy Guide
+# How Can Fabric Professionals Thrive in the AI Age?: A Career Strategy Guide
 
 ## Key Takeaways
 
