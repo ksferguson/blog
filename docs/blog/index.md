@@ -20,6 +20,8 @@ Welcome to Ferguson Analytics' Applied AI blog where we share insights highlight
 
 ## AI for Builders & Consultants
 
+- [How Can Fabric Professionals Thrive in the AI Age?](./posts/fabric-ai-survival-guide.md) 
+
 - [Essential AI Tools for Modern Software Engineers: A Practical Guide](./posts/dev-ai-tools-guide.md)
 
 - [Personal blog with mkdocs and github.io](./posts/mkdocs-blog-guide.md)
