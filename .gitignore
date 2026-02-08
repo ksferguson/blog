@@ -4,3 +4,8 @@ site/
 *.bat
 docs/CNAME
 docs/blog/staging/
+
+# Project management docs (private - public repo)
+SYSTEM.md
+context/
+dev.ps1
