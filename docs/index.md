@@ -1,13 +1,6 @@
 ---
 title: "AI Strategy for Industrial Investors & Operators | Ferguson Analytics"
 description: "Houston-based AI strategy consultant helping PE firms, family offices, and industrial operators cut through AI hype. 25+ years industrial systems experience."
-date: 2025-01-27
-categories:
-  - Industrial AI
-  - Manufacturing
-slug: index
-authors:
-  - me
 ---
 
 # Ferguson Analytics
