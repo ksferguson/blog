@@ -14,10 +14,12 @@ Create a professional consulting blog with the MkDocs Material theme.
    mkdocs serve -w .
    ```
 
-3. **Deploy to GitHub Pages**: Go live with:
+3. **Deploy to GitHub Pages**: This repo is the source; the live site is served from `ksferguson.github.io`. Deploy from that repo:
    ```bash
-   mkdocs gh-deploy
+   cd %USERPROFILE%\github\ksferguson.github.io
+   mkdocs gh-deploy --config-file ..\blog\mkdocs.yml --remote-branch main
    ```
+   **Note:** mkdocs builds from the working tree, not git commits. Stash uncommitted changes before deploying if you don't want them published.
 
 ## Tasks to Complete
 
