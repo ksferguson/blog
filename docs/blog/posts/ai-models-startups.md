@@ -1,8 +1,20 @@
 ---
+title: "Should Startups Build Custom AI or Use Foundation Models? Decision Framework"
+description: "Strategic framework for startup AI decisions: foundation models vs custom development. Includes cost analysis, timeline considerations, and risk assessment."
 date: 2025-07-04
+updated: 2025-07-19
+categories:
+  - Investors
+  - Builders
+tags:
+  - analysis
+  - strategy
+  - startups
+  - foundation-models
+  - cost-analysis
 slug: ai-models-startups
-author:
- - me
+authors:
+  - me
 ---
 
 # The AI Strategy That's Killing Startups

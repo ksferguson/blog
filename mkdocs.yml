@@ -109,8 +109,8 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 nav:
-  - Home: 
-    - Industrial AI: 'index.md'
+  - Home:
+    - Home: 'index.md'
   - Services: 'services.md'
   - Blog:
     - "blog/index.md"

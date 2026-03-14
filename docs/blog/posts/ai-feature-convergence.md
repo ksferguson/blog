@@ -1,8 +1,20 @@
 ---
+title: "How Should Investors Evaluate AI Startups Before Feature Convergence? Due Diligence Framework"
+description: "Investment framework for evaluating AI startups facing feature convergence from OpenAI, Google, and Anthropic. Includes risk assessment and competitive analysis."
 date: 2025-07-13
+updated: 2025-07-19
+categories:
+  - Investors
+  - Builders
+tags:
+  - analysis
+  - strategy
+  - venture-capital
+  - competitive-analysis
+  - risk-assessment
 slug: ai-feature-convergence
-author:
- - me
+authors:
+  - me
 ---
 
 # The Great AI Feature Convergence

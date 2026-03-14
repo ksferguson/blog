@@ -1,8 +1,20 @@
 ---
+title: "Where Can You Find AI and Tech Events in Houston? Complete Resource Guide"
+description: "Comprehensive guide to Houston's AI, tech, and startup events. Includes networking opportunities, recurring meetups, and conference calendars."
 date: 2025-07-02
+updated: 2025-07-19
+categories:
+  - Executives
+  - Consultants
+tags:
+  - networking
+  - houston-ai
+  - local-community
+  - professional-development
+  - events
 slug: houston-ai-events
-author:
- - me
+authors:
+  - me
 ---
 
 # Houston AI, Tech, and Startup Events

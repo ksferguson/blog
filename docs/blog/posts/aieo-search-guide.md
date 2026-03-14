@@ -200,7 +200,7 @@ A: AI systems prefer structured content with clear hierarchies: FAQ sections, st
 
     Local networking opportunities for AI strategy discussions
 
-- See our complete [Executive AI Strategy series](../category/executives/) for additional business strategy guidance.
+- See our complete [Executive AI Strategy series](/blog/category/executives/) for additional business strategy guidance.
 
 ## Your Next Steps
 

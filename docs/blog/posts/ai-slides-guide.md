@@ -1,8 +1,20 @@
 ---
+title: "How Should Executives Create Professional Presentations Using AI?"
+description: "Complete workflow for creating investor-ready presentations using AI tools like Gamma, Beautiful.ai, and ChatGPT. Includes templates and time-saving strategies."
 date: 2025-04-05
+updated: 2025-07-19
+categories:
+  - Executives
+  - Consultants
+tags:
+  - productivity
+  - presentations
+  - gamma-ai
+  - workflow-optimization
+  - time-saving
 slug: ai-slides-guide
-author:
- - me
+authors:
+  - me
 ---
 
 # AI-Powered Slide Decks: In under an Hour

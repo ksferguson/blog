@@ -1,8 +1,19 @@
 ---
+title: "How to Create a Professional Consulting Blog with mkdocs and GitHub (2025 Guide)"
+description: "Step-by-step tutorial for building a professional consulting blog using mkdocs-material and GitHub Pages. Free hosting with custom domain support."
 date: 2024-12-20
+updated: 2025-07-19
+categories:
+  - Consultants
+tags:
+  - implementation
+  - mkdocs
+  - github-pages
+  - consulting-blog
+  - tutorial
 slug: mkdocs-blog-guide
-author:
- - me
+authors:
+  - me
 ---
 
 # Personal blog with mkdocs and github.io

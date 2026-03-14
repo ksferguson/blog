@@ -75,7 +75,7 @@ We'll discuss your situation and I'll tell you honestly whether I can help — a
 - [The Executive's Guide to Building Your AI Toolstack](./blog/posts/exec-ai-tools-guide.md) — Practical AI adoption for leaders
 - [AI Strategy That's Killing Startups](./blog/posts/ai-models-startups.md) — Investment analysis for industrial technology
 
-[Read the Blog](./blog/){ .md-button }
+[Read the Blog](blog/index.md){ .md-button }
 
 ---
 
