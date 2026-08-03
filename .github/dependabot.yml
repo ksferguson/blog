@@ -1,0 +1,15 @@
+version: 2
+updates:
+  # Python dependencies (mkdocs, material, plugins) via uv.lock / pyproject.toml
+  - package-ecosystem: "uv"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+
+  # Keep the security-scan workflow's actions pinned and patched
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"

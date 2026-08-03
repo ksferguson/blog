@@ -1,0 +1,19 @@
+# External domains this site is allowed to load resources (scripts, styles,
+# fonts, iframes) from. One domain per line; lines starting with # are ignored.
+#
+# The security-scan workflow fails if any page source references a resource
+# domain not listed here. Add a domain ONLY after deciding you trust it to
+# serve executable content to your visitors (see: polyfill.io, June 2024).
+
+# Material theme default font loading
+fonts.googleapis.com
+fonts.gstatic.com
+
+# Material theme analytics integration (extra.analytics in mkdocs.yml)
+www.googletagmanager.com
+
+# Blog author avatar (docs/blog/.authors.yml)
+avatars.githubusercontent.com
+
+# Twemoji images for :shortcode: emoji (pymdownx.emoji, to_svg generator)
+cdn.jsdelivr.net

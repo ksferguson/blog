@@ -67,8 +67,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-  - pymdownx.arithmatex:
-      generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
@@ -106,8 +104,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.arithmatex:
-      generic: true
 nav:
   - Home:
     - Home: 'index.md'
@@ -160,9 +156,3 @@ extra:
       link: https://twitter.com/ksferguson 
     - icon: fontawesome/brands/github
       link: https://github.com/ksferguson 
-extra_css:
-  - stylesheets/extra.css
-extra_javascript:
-  - javascripts/mathjax.js
-  - javascripts/analytics.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
